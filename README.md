@@ -32,7 +32,7 @@ Spring Boot Version: 3.5.11
 @Repository : Handles data access and exceptions.
 @Transactional : Ensures a set of database operations succeed or fail as a single unit.
 
-## 6. Performance Observations (nammacircle.in)
+5. Performance Observations (nammacircle.in)
 My Observation to this Website as Point of view of BAckend Developer are : 
 1. Use the Redis cache memory system do that it enhance the performance of the user and UI/UX also.
 2. Use Pagination to evaluate the list data that will help for better optimization.
