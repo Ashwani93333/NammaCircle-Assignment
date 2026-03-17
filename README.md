@@ -3,10 +3,11 @@
 1. Implementing Unique Referrals Logic In backend
 Implementation: 
  I used a composite unique constraint in the database and a check in the Service layer.
- at every time i have to check whether the user is associated with pre existing company or not 
- if the user is already associated with the the own referraled COmpany then no need for the registration or referrals>>>
+ at every time i have to check whether the user is associated with pre existing company or not.
 
-is that show the Signla message as 'Already Referraled by other user'.
+ if the user is already associated with the the own referraled COmpany then no need for the registration or referrals!!
+
+is that show the Signal message as 'Already Referraled by other user'.
 
 By this we can implement this functionality. 
 
